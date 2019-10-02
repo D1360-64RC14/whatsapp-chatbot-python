@@ -10,7 +10,7 @@ chromeOptions.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 if system() == 'Windows':
     exe = '.exe'
 elif system() == 'Linux':
-    exe = '.exe'
+    exe = ''
 else:
     print('OS not supported!')
     exit(1)

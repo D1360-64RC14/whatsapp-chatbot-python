@@ -1,6 +1,6 @@
 ### This code is only for learning and fun. Don't use it on important things!
 ##
-This code uses web browser automation to create a chatbot for WhatsApp
+This code use web browser automation to create a chatbot for WhatsApp
 
 1. Set the contact/group name in "[contactName.txt](contactName.txt)" file;
 0. Start [server.py](server.py);
